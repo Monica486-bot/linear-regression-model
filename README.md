@@ -10,13 +10,12 @@ Students' academic outcomes are shaped by a complex mix of social, family, and s
 ---
 
 ## Public API Endpoint (Swagger UI)
-**https://student-grade-api.onrender.com/docs**
+API_LINK_HERE
 
 ---
 
 ## Video Demo
-**https://youtu.be/YOUR_VIDEO_ID**  
-*(Replace with your YouTube link before submission)*
+VIDEO_LINK_HERE
 
 ---
 
