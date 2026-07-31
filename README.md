@@ -11,7 +11,7 @@ Students' academic outcomes are shaped by a complex mix of social, family, and s
 
 ## Public API Endpoint (Swagger UI)
 
-> Insert your deployed API link here
+https://linear-regression-model-y8zs.onrender.com/docs
 
 ---
 

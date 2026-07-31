@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:http/http.dart' as http;
 
-const String _apiUrl = 'https://student-grade-api.onrender.com/predict';
+const String _apiUrl = 'https://linear-regression-model-y8zs.onrender.com/predict';
 
 // ── Field descriptor ────────────────────────────────────────────────────────
 class _FieldDef {
